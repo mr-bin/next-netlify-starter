@@ -11,6 +11,13 @@
     "cypress": "^10.0.3",
     "next": "^12.1.5",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "bootstrap": "^5.2.2",
+    "@popperjs/core": "^2.11.6"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "eslint-config-next": "12.0.4",
+    "sass": "1.43.5"
   }
 }
